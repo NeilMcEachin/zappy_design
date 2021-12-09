@@ -1,5 +1,4 @@
 module.exports = {
-  "color.test1": "#00C875",
   "color.primary": "#00C875",
   "color.accent": "#8B46FF",
   "color.success": "#11AF22",
@@ -29,7 +28,7 @@ module.exports = {
   "font.size.2": "0.875rem",
   "font.size.3": "1rem",
   "font.size.4": "1.250rem",
-  "font.size.5": "1.625rem",
+  "font.size.5": "font.size.1",
   "font.size.6": "2rem",
   "font.family": "Open Sans, sans-serif",
   "breakpoint.mobile": "40rem",
